@@ -1,5 +1,5 @@
-function compterCaracteres(chaines){
-for( let chaine of chaines)
+function compterCaracteres(chaine){
+for( let chaines of chaine)
     ++result
     return result
     
